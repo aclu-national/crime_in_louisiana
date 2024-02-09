@@ -2,7 +2,7 @@
 Analyzing youth and adult crime in Louisiana
 
 # Data Source
-[Jacob Kaplan's Concatenated Files: Uniform Crime Reporting Program Data: Offenses Known and Clearances by Arrest, 1960-2018](https://www.openicpsr.org/openicpsr/project/100707/version/V13/view)
+UCR Data: [Jacob Kaplan's Concatenated Files: Uniform Crime Reporting Program Data: Offenses Known and Clearances by Arrest, 1960-2018](https://www.openicpsr.org/openicpsr/project/100707/version/V13/view)
 
 # Data Notes
 This data is coming from the FBI Uniform Crime Report. For our analysis, we will be considering data from law enforcement agencies who both included all 12 months' worth of UCR data, as well as agencies who included partial 1-11 months of data. We can see that between 2017 and 2022, there have been a different number of law enforcement agencies submitting to UCR per year. Specifically, in 2017, 197 agencies submitted UCR data, in 2018, 197 agencies submitted UCR data, in 2019, 188 agencies submitted UCR data, in 2020, 187 agencies submitted UCR data, in 2021, 136 agencies submitted UCR data, and in 2021, 151 agencies submitted UCR data. Please also note that all of our under-18 crime data are the youth crimes that have been cleared (or closed). This means that the case ended with an arrest or through exceptional means. 
